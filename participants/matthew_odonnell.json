@@ -1,0 +1,24 @@
+{
+  "realName": {
+    "givenName": "Matthew",
+    "familyName": "O'Donnell",
+    "placeFamilyNameFirst": false,
+    "hideFamilyNameOnWebsite": false
+  },
+  "githubAccountName": "mjodonnell",
+  "company": "New Coder/Career Change Prospect",
+  "when": {
+    "friday": true,
+    "saturday": true
+  },
+  "iCanTakeNotesDuringSessions": false,
+  "tags": ["TypeScript", "React", "Pixi.js", "React", "Vue.js],
+  "vegan": false,
+  "vegetarian": false,
+  "allergies": [],
+  "whatIsMyConnectionToJavascript": "It is the what I have chosen to learn first and I am enjoying it",
+  "whatCanIContribute": "Support organizing team. Act as gopher. Bring outsider's perspective. Outreach to potential speakers/participants.",
+  "tShirtSize": "XXL",
+  "linkedin": "https://www.linkedin.com/in/mjodonnell/",
+  "X": "mjodonnell",
+}
